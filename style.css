@@ -122,7 +122,6 @@ body {
   justify-content: space-between;
   align-items: center;
 }
-.list__checkbox {
   margin: 0 10px;
 }
 .button__img {
@@ -146,7 +145,6 @@ body {
 }
 
 .input_edited {
-  text-decoration: none;
   display: inline-block;
   width: 224px;
 }
